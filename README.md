@@ -52,7 +52,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=gruvbox)
+![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
