@@ -1,10 +1,10 @@
 # 🤼‍♂️ Thando Ncube (Cube 3)
 **`Software Life (Developer/Digital Creator/Juijiteiro)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[YouTube Account](https://www.youtube.com/@genuinecode3097)" to more than 140 subscribers.
+I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[Genuine Code](https://www.youtube.com/@genuinecode3097)" to more than 140 subscribers.
 
    <p align="left">
-      <a href="https://www.youtube.com/@genuinecode3097">
+      <a href="https://www.youtube.com/user/@genuinecode3097?Sub_Confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@genuinecode3097?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@genuinecode3097">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/@genuinecode3097?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
