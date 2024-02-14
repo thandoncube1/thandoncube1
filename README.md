@@ -4,10 +4,10 @@
 I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[Genuine Code](https://www.youtube.com/@genuinecode3097)" to more than 140 subscribers.
 
    <p align="left">
-      <a href="https://www.youtube.com/user/@genuinecode3097?Sub_Confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@genuinecode3097?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@genuinecode3097">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/@genuinecode3097?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://www.youtube.com/user/UCCSDOV3aYl-BaoBOTqHB36Q?Sub_Confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/UCCSDOV3aYl-BaoBOTqHB36Q">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/thandoncube1?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thandoncube1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/thandoncube1?tab=repositories&sort=stargazers">
@@ -43,7 +43,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Reminder App Part 2 | JavaScript Application")](https://www.youtube.com/watch?v=j5QR1GumLL4)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/user/@genuinecode3097?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/user/UCCSDOV3aYl-BaoBOTqHB36Q?sub_confirmation=1)
 
 #
 
