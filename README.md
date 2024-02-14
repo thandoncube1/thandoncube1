@@ -38,7 +38,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=wBp9-Tv8zJI&title=HTML+CSS+JavaScript+Reminder+App&lang=en&timestamp=1707847789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "HTML, CSS & JavaScript Reminder App")](https://www.youtube.com/watch?v=wBp9-Tv8zJI)
+[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=wBp9-Tv8zJI&title=HTML+CSS+JavaScript+Reminder+App&lang=en&timestamp=1707977789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "HTML, CSS & JavaScript Reminder App")](https://www.youtube.com/watch?v=wBp9-Tv8zJI)
 [![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=MtOgXIdkzOY&title=QUOKKA+|+JavaScript+Extension+on+VSCode&lang=en&timestamp=1707248821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "QUOKKA | JavaScript Extension on VSCode")](https://www.youtube.com/watch?v=MtOgXIdkzOY)
 [![Merge Sort Visualized](https://ytcards.demolab.com/?id=kSBVQ4q6yBU&title=Understanding+Objects+in+JavaScript&lang=en&timestamp=1707460421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Understanding Objects in JavaScript")](https://www.youtube.com/watch?v=kSBVQ4q6yBU)
 [![Software Engineers Make $171k](https://ytcards.demolab.com/?id=CfOrvLI5Blc&title=Polymorphism+|+Understanding+JavaScript&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Polymorphism | Understanding JavaScript")](https://www.youtube.com/watch?v=CfOrvLI5Blc)
@@ -52,7 +52,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical)
+|![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=buefy&hide_border=true" /></a>
+|------------------------|-----------------|
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
