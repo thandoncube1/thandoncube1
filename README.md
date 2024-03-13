@@ -38,8 +38,9 @@ I'm an indie full-stack developer and content creator building my version of the
 [![Reminder App Part 2 | JavaScript Application](https://ytcards.demolab.com/?id=j5QR1GumLL4&title=Reminder+App+Part+2+|+JavaScript+Application&lang=en&timestamp=1626840000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Reminder App Part 2 | JavaScript Application")](https://www.youtube.com/watch?v=j5QR1GumLL4)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@genuinecode3097?sub_confirmation=1)
    <p align="left">
+      <a href="https://www.youtube.com/@genuinecode3097?sub_confirmation=1">
+         <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/></a>
       <a href="https://www.youtube.com/@genuinecode3097?Sub_Confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@genuinecode3097">
@@ -56,6 +57,11 @@ I'm an indie full-stack developer and content creator building my version of the
 
 |![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=radical&hide_border=true" /></a>
 |------------------------|------------------------|
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thandoncube1/thandoncube1/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/thandoncube1/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+</picture>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
