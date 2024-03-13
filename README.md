@@ -56,8 +56,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 |![Thando's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=radical&hide_border=true" /></a>
-|-------------------------------------------------------|
-|-------------------------------------------------------|
+|-------------------------------------------------------|-------------------------------------------------------|
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thandoncube1/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
