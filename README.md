@@ -1,3 +1,5 @@
+[![GitHub Badge](https://img.shields.io/badge/-@thandoncube1-%23181717?style=flat&logo=github)](https://github.com/thandoncube1) [![Gmail Badge](https://img.shields.io/badge/-ncubethando20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ncubethando20@gmail.com)](mailto:ncubethando20@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=portfolio.runakodesigns.com&url=http%3A%2F%2Fportfolio.runakodesigns.com%2F)](https://portfolio.runakodesigns.com) [![Twitter Badge](https://img.shields.io/badge/-@thandon20?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thandon20)](https://twitter.com/thandon20) [![Linkedin Badge](https://img.shields.io/badge/-@thando-ncube-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thando-ncube/)](https://www.linkedin.com/in/thando-ncube/)
+
 # 🤼‍♂️ Thando Ncube (Cube 3)
 **`Software Life (Developer/Digital Creator/Juijiteiro)`**
 
