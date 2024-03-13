@@ -6,17 +6,6 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[Genuine Code](https://www.youtube.com/@genuinecode3097)" to more than 140 subscribers.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@genuinecode3097?Sub_Confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@genuinecode3097">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/thandoncube1?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thandoncube1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/thandoncube1?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thandoncube1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -50,6 +39,16 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@genuinecode3097?sub_confirmation=1)
+   <p align="left">
+      <a href="https://www.youtube.com/@genuinecode3097?Sub_Confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@genuinecode3097">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCSDOV3aYl-BaoBOTqHB36Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/thandoncube1?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thandoncube1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/thandoncube1?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thandoncube1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 #
 
