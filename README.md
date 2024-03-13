@@ -2,7 +2,6 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-@thandoncube1-%23181717?style=flat&logo=github)](https://github.com/thandoncube1) [![Gmail Badge](https://img.shields.io/badge/-ncubethando20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ncubethando20@gmail.com)](mailto:ncubethando20@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=portfolio.runakodesigns.com&url=http%3A%2F%2Fportfolio.runakodesigns.com%2F)](https://portfolio.runakodesigns.com) [![Twitter Badge](https://img.shields.io/badge/-@thandotwitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thandon20)](https://twitter.com/thandon20) [![Linkedin Badge](https://img.shields.io/badge/-@thandoNcube-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thando-ncube/)](https://www.linkedin.com/in/thando-ncube/)
 
-<br /><br />
 **`Software Life (Developer/Digital Creator/Juijiteiro)`** 
 
 I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[Genuine Code](https://www.youtube.com/@genuinecode3097)" to more than 140 subscribers.
