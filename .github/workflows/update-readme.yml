@@ -2,7 +2,7 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs hourly at everyday
+    - cron: '0 * * * *' # Runs hourly every day
   push:
     branches:
       - main
@@ -18,17 +18,16 @@ jobs:
 
     - name: Update README
       run: |
-        # Replace with your actual URL
         stats_url="https://github-readme-stats-thando.vercel.app/api?username=thandoncube1"
         langs_url="https://github-readme-stats-thando.vercel.app/api/top-langs?username=thandoncube1"
         readme_file="README.md"
 
         # Update the README.md file with the latest stats
-        sed -i '' "s|!\[GitHub Stats\](.*)|![GitHub Stats]($stats_url)|" $readme_file
-        sed -i '' "s|!\[Top Languages\](.*)|![Top Languages]($langs_url)|" $readme_file
+        sed -i "s|!\[GitHub Stats\](.*)|![GitHub Stats]($stats_url)|" "$readme_file"
+        sed -i "s|!\[Top Languages\](.*)|![Top Languages]($langs_url)|" "$readme_file"
 
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add $readme_file
+        git add "$readme_file"
         git commit -m "Updated README with GitHub stats"
-        git push https://${{ secrets.GH_TOKEN_SECRET }}@github.com/${{ github.repository }}.git
+        git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
