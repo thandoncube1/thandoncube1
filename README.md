@@ -59,12 +59,3 @@ I'm an indie full-stack developer and content creator building my version of the
 |-------------------------------------------------------|-------------------------------------------------------|
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻 Thando's Coding Journey</h3></summary>
-   I started my coding journey as a naive bootcamp student with a goal to become the most efficient engineer in this programming world - code, unix, linux, theory, algorithms and data structures. At that very moment I was introduced to React and Node.js I was literally swept from the feet, after spending countless hours working with JQuery; React seemed so cool and yet I did not understand what I was doing but that soon got overshadowed by my desire to be proficient in Frontend. A desire that landed me a Frontend software engineering job a few months after graduating from the bootcamp. However, I had another desire I had been pursuing throughout this time - YouTube content creation. But there's something that's always bothered me about my journey - abandoning my dream of being the most efficient engineer in any team, a dream that I think evryone would want to accomplish. Now I've already taken the leap into getting that education by reading making sure my Data structures are on point and I do my best to write a question everyday to stay on top of the game. In this process I also started creating YouTube videos to educate myself and everyone interested. I think with this I will definitely be pushing myself to the uncomfortable putting my skills out there for everyone to see and in the process improving my communication skills, delivery and also working on getting that exposure to connect with other creators. I'm still growing and looking forward to what 2024 is going to bring in my life.
-<br/>
-<p>[website]: http://runakodesigns.com/</p>
-<p>[youtube]: https://youtube.com/@genuinecode3097</p>
