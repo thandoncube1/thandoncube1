@@ -16,6 +16,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: List files
+      run: ls -l
+
     - name: Update README
       run: |
         stats_url="https://github-readme-stats-thando.vercel.app/api?username=thandoncube1"
