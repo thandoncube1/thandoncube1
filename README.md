@@ -32,7 +32,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
-
+---
 ### 📊 Stats
 
 |![Thando's GitHub stats](https://github-readme-stats-thando.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats-thando"><img align="center" src="https://github-readme-stats-thando.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=radical&hide_border=true"/></a>
