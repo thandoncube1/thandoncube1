@@ -32,7 +32,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
----
+<div></div>
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![HTML, CSS & JavaScript Reminder App](https://ytcards.demolab.com/?id=wBp9-Tv8zJI&title=HTML+CSS+JavaScript+Reminder+App&lang=en&timestamp=1626580800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "HTML, CSS & JavaScript Reminder App")](https://www.youtube.com/watch?v=wBp9-Tv8zJI)
