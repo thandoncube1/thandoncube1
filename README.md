@@ -32,15 +32,12 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
-
+---
 ### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
-<div style="margin-top: 20px; display: flex; flex-direction: row;">
 [![HTML, CSS & JavaScript Reminder App](https://ytcards.demolab.com/?id=wBp9-Tv8zJI&title=HTML+CSS+JavaScript+Reminder+App&lang=en&timestamp=1626580800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "HTML, CSS & JavaScript Reminder App")](https://www.youtube.com/watch?v=wBp9-Tv8zJI)
 [![QUOKKA | JavaScript Extension on VSCode](https://ytcards.demolab.com/?id=MtOgXIdkzOY&title=QUOKKA+|+JavaScript+Extension+on+VSCode&lang=en&timestamp=1625457600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "QUOKKA | JavaScript Extension on VSCode")](https://www.youtube.com/watch?v=MtOgXIdkzOY)
 [![Understanding Objects in JavaScript](https://ytcards.demolab.com/?id=kSBVQ4q6yBU&title=Understanding+Objects+in+JavaScript&lang=en&timestamp=1622174400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Understanding Objects in JavaScript")](https://www.youtube.com/watch?v=kSBVQ4q6yBU)
-</div>
 <!-- END YOUTUBE-CARDS -->
 
    <p align="left">
