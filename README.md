@@ -36,12 +36,11 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<div style="margin-top: 20px; display: flex; flex-direction: row;">
 [![HTML, CSS & JavaScript Reminder App](https://ytcards.demolab.com/?id=wBp9-Tv8zJI&title=HTML+CSS+JavaScript+Reminder+App&lang=en&timestamp=1626580800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "HTML, CSS & JavaScript Reminder App")](https://www.youtube.com/watch?v=wBp9-Tv8zJI)
 [![QUOKKA | JavaScript Extension on VSCode](https://ytcards.demolab.com/?id=MtOgXIdkzOY&title=QUOKKA+|+JavaScript+Extension+on+VSCode&lang=en&timestamp=1625457600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "QUOKKA | JavaScript Extension on VSCode")](https://www.youtube.com/watch?v=MtOgXIdkzOY)
 [![Understanding Objects in JavaScript](https://ytcards.demolab.com/?id=kSBVQ4q6yBU&title=Understanding+Objects+in+JavaScript&lang=en&timestamp=1622174400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Understanding Objects in JavaScript")](https://www.youtube.com/watch?v=kSBVQ4q6yBU)
-[![Polymorphism | Understanding JavaScript](https://ytcards.demolab.com/?id=CfOrvLI5Blc&title=Polymorphism+|+Understanding+JavaScript&lang=en&timestamp=1623556800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Polymorphism | Understanding JavaScript")](https://www.youtube.com/watch?v=CfOrvLI5Blc)
-[![Counter App | Understanding the DOM](https://ytcards.demolab.com/?id=XKO-SHideF4&title=Counter+App+|+Understanding+the+DOM&lang=en&timestamp=1623643200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792 "Counter App | Understanding the DOM")](https://www.youtube.com/watch?v=XKO-SHideF4)
-[![Reminder App Part 2 | JavaScript Application](https://ytcards.demolab.com/?id=j5QR1GumLL4&title=Reminder+App+Part+2+|+JavaScript+Application&lang=en&timestamp=1626840000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Reminder App Part 2 | JavaScript Application")](https://www.youtube.com/watch?v=j5QR1GumLL4)
+</div>
 <!-- END YOUTUBE-CARDS -->
 
    <p align="left">
