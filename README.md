@@ -11,8 +11,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 |![Thando's GitHub stats](https://github-readme-stats-thando.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats-thando"><img align="center" src="https://github-readme-stats-thando.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=radical&hide_border=true"/></a>
 |-------------------------------------------------------|-------------------------------------------------------|
----
- #
+
    <p align="left">
       <a href="https://www.youtube.com/@genuinecode3097?sub_confirmation=1">
          <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/></a>
@@ -25,6 +24,9 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/thandoncube1?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thandoncube1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+---
+
+#
 
 ### 🧰 Languages and Tools
 <div style="display: flex; flex-direction: row;">
