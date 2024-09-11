@@ -24,10 +24,8 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/thandoncube1?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thandoncube1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 ---
-
-#
-
 ### 🧰 Languages and Tools
 <div style="display: flex; flex-direction: row;">
 <img align="left" alt="TypeScript" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
