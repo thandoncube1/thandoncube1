@@ -32,6 +32,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
+---
    <p align="left">
       <a href="https://www.youtube.com/@genuinecode3097?sub_confirmation=1">
          <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/></a>
