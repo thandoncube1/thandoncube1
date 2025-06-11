@@ -1,4 +1,4 @@
-# 🤼‍♂️ Thando Ncube (Cube 3)
+# 🤼‍♂️ Thando Ncube (Q)
 
 [![GitHub Badge](https://img.shields.io/badge/-@thandoncube1-%23181717?style=flat&logo=github)](https://github.com/thandoncube1)[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=portfolio.runakodesigns.com&url=http%3A%2F%2Fportfolio.runakodesigns.com%2F)](https://portfolio.runakodesigns.com) [![Twitter Badge](https://img.shields.io/badge/-@thandotwitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thandon20)](https://twitter.com/thandon20) [![Linkedin Badge](https://img.shields.io/badge/-@thandoNcube-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thando-ncube/)](https://www.linkedin.com/in/thando-ncube/)[![Status Badge](https://img.shields.io/badge/GitHub-Status_Follow-Me?color=#45a23b)](https://img.shields.io/badge/GitHub-Status_Follow-Me?color=#45a23b)
 
