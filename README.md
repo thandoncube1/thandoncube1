@@ -7,11 +7,6 @@
 I'm an indie full-stack developer and content creator building my version of the digital world for every day of my life. All coding projects have been built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with creative touches where I can. I publish that content on my YouTube channel "[Ground Zero](https://www.youtube.com/@groundzero12)" to more than 140 subscribers. Check out te channel and hopefully you learn something.
 
 ---
-### 📊 Stats
-
-|![Thando's GitHub stats](https://github-readme-stats-thando.vercel.app/api?username=thandoncube1&show_icons=true&theme=radical) | <a href="https://github.com/thandoncube1/github-readme-stats-thando"><img align="center" src="https://github-readme-stats-thando.vercel.app/api/top-langs/?username=thandoncube1&layout=compact&theme=radical&hide_border=true"/></a>
-|-------------------------------------------------------|-------------------------------------------------------|
-
    <p align="left">
       <a href="https://www.youtube.com/@genuinecode3097?sub_confirmation=1">
          <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/></a>
