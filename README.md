@@ -41,5 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
  <img align="left" alt="TomCat" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" />
  <img align="left" alt="SSH" width="80px" style="padding-right:10px; color:#3D9561;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
  <img align="left" alt="Mui" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+ <img align="left" alt="Ziglang" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" />
+ <img align="left" alt="Wordpress" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 </div>
 <br />
